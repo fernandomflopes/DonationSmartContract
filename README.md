@@ -1,5 +1,5 @@
 # DonationSmartContract
-Exemplo de Smart Contract de doação rodando na Binance Smarchain TestNet
+Exemplo de Smart Contract de doação rodando na Binance Smartchain TestNet
 
 # Endereço de um smart contract de test
 * 0x28c080F94ECac1CC8E79D16A53f346531754a673
