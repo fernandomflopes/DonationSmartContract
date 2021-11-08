@@ -2,7 +2,9 @@
 Exemplo de Smart Contract de doação rodando na Binance Smartchain TestNet. OBS: link de um projeto front-end de exemplo https://github.com/fernandomflopes/DonationsSmartContract
 
 # Importante
-Clique na estrela acima se este projeto foi util pra você - Isso me ajuda a continuar melhorando TKS... 
+* Clique na estrela acima se este projeto foi util pra você - Isso me ajuda a continuar melhorando. 
+* Duvidas, Criticas e Sugestões serão muito bem vindas então não tenha medo de abrir uma issue.
+* TKS
 
 # Endereço de um smart contract de test
 * 0x28c080F94ECac1CC8E79D16A53f346531754a673
