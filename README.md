@@ -18,5 +18,5 @@ truffle migrate --network testnet --reset
 
 * - No remix - copie e cole o codigo do arquivo Doacao.sol e compile
 * - No remix - Na seção deploy - cole o endereço do contrato
-* - Crie um arquivo .secret na raiz do projeto com os mnemonicos de sua carteira - OBS: Crie e use uma carteira metamask apenas para testes e também no metamask, adicione a rede https://data-seed-prebsc-1-s1.binance.org:8545/ com ChainId 97 
+* - Crie um arquivo .secret na raiz do projeto com os mnemonicos de sua carteira - OBS: Crie e use uma carteira metamask apenas para testes e também no metamask adicione a rede https://data-seed-prebsc-1-s1.binance.org:8545/ com ChainId 97 
 
